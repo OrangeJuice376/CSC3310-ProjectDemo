@@ -1,209 +1,1077 @@
+10x Genomics
+1X Technologies
+23andMe
 3M
 ABB
 Abbott
+Abbvie
+ABL Space Systems
+Absci
+Acadia Pharmaceuticals
 Accenture
+Acer
+Adaptive Biotechnologies
 Adobe
+Adobe Systems
+Advanced Micro Devices
+Advantest
+Aerojet Rocketdyne
+AeroVironment
+Aeva Technologies
+Aeye
+Agco
+Agilent
+Agilent Technologies
+Agility Robotics
 AIG
+Air Liquide
+Air Products
 Airbnb
 Airbus
+Akamai
+Akamai Technologies
+Akoustis
+Albemarle
+Albemarle Corporation
+Alcoa
+Alcon
+Alexandria Real Estate
+Alexion
 Alibaba
+Align Technology
+Allegro MicroSystems
 Allstate
+Alnylam Pharmaceuticals
 Alphabet
+Altair Engineering
+Alteryx
+Altium
 Amazon
+Ambarella
+Ambri
 AMD
 Amgen
+Amkor Technology
+Amphenol
+Amplitude
+Analog Devices
+Anduril
 Anheuser-Busch
+Ansys
+Anthropic
+Anyscale
+Appian
 Apple
+Applied Digital
+Applied Intuition
 Applied Materials
+Applied Materials Inc
+AppLovin
+Apptronik
+Aptiv
 Aramco
+Arcelormittal
+Archer Aviation
+Arcturus Therapeutics
+Ardmore Shipping
+argenx
+ArianeGroup
+Arianespace
+Arista Networks
+Arm
+Arm Holdings
+Array Technologies
+Arrow Electronics
+Asana
+Ascendis Pharma
+ASE Technology
 ASML
+Aspen Technology
+AST SpaceMobile
+Astellas
+Astra Space
+Astranis
+AstraZeneca
+Astrobotic
+Astrotech
+Asus
 AT&T
 Atlassian
 Audi
+Aurora Flight Sciences
+Aurora Innovation
 Autodesk
+Autodesk Research
+Avantor
+Avnet
+AWS
+Axcelis
+Axiom Space
+Axon
+Axon Enterprise
+BAE Systems
 Baidu
+Baidu Apollo
+Bajaj Auto
 Baker Hughes
+Ball Aerospace
+Ballard Power Systems
 Bank of America
 Barclays
 BASF
+Bausch + Lomb
+Baxter International
 Bayer
+Bayer AG
 BBC
+Beam Therapeutics
+Becton Dickinson
+BeiGene
+Benchling
+Bentley Systems
 Berkshire Hathaway
 Best Buy
+Beta Technologies
+Beyond Meat
+BHP
+BigCommerce
+Bill.com
+Bio-Rad Laboratories
+Bio-Techne
+Biogen
+BioMarin
+BioNTech
+Black Duck
+Blackbaud
+Blackberry
+Blackrock
+Blackrock Neurotech
+BlackSky
+Blink Charging
+Block
+Bloom Energy
+Blue Origin
+Bluebird Bio
+BMW
+Boehringer Ingelheim
 Boeing
+Bombardier
 Booking Holdings
+Boom Supersonic
+BorgWarner
 Bosch
+Boston Dynamics
+Boston Scientific
+Box
 BP
 Bridgestone
+Bristol-Myers Squibb
 Broadcom
+Brooks Automation
+Bruker
 Bumble
+Butterfly Network
+BWX Technologies
+BYD
+ByteDance
+Cadence
+Cadence Bank
+Cadence Design Systems
+Cadre
+Calico Labs
+Cambricon
+Cambridge Quantum
+Cameco
+Canadian Solar
 Canon
+Canoo
+Capella Space
 Capital One
+Cardinal Health
+Cargill
 CarMax
 Carnival
+Carrier Global
+Castelion
+Catalent
 Caterpillar
+CATL
 CDW
+Cencora
+Centrus Energy
+Cepton
+Cerebras
+Cerence
+Ceridian
+Cerner
+Certara
+Character.AI
+Charge Enterprises
+ChargePoint
+Charles River Laboratories
+Check Point Software
+Cheniere Energy
 Chevron
 Chipotle
+Chugai
+Ciena
+Circle Internet Group
+Cirrus Aircraft
+Cirrus Logic
 Cisco
 Citigroup
+Clarivate
+Cloudflare
 Coca-Cola
+Cognex
+Cognizant
+Cohere
+Coherent
+Coherus
+Cohesity
 Colgate-Palmolive
+Collins Aerospace
+Color Health
+Colossal Biosciences
+Comac
 Comcast
+Commonwealth Fusion Systems
+Commscope
+Compugen
+Confluent
+Constellation Energy
+Continental AG
+Cooper Companies
+Corning
+Corsair
+Corteva
 Costco
 Coupang
+Coursera
+Covestro
+Cree
+Crispr Therapeutics
 CrowdStrike
+Crowdstrike Holdings
+Cruise
+Cummins
+CureVac
 CVS Health
+Cyberark
+Cypress Semiconductor
+Daiichi Sankyo
 Daimler Truck
 Danaher
+Danaher Corporation
 Darden Restaurants
+Dassault Aviation
+Dassault Systemes
+Databricks
+Datadog
+DeepMind
+DeepSeek
 Dell
 Delta Air Lines
+Delta Electronics
+Denso
+Denso Corporation
 Deutsche Bank
+Dexcom
+Didi
+Digital Realty
+Diodes Incorporated
+Disco Corporation
 Disney
+DJI
+DNA Script
+DocuSign
+Dolby
 DoorDash
+Dow
+Doximity
+Dragonfly Energy
 Dropbox
+Duolingo
+DuPont
+Dynatrace
+Dynatrace Inc
+Eaton
 eBay
+EchoStar
 Ecolab
+Edgio
+Edwards Lifesciences
+Ehang
+Eisai
+Elastic
+Elbit Systems
+Electronic Arts
+Elekta
 Eli Lilly
+Embark
+Embraer
+Emergent BioSolutions
 Emerson Electric
+Enovis
+Enovix
+Enphase
 Enphase Energy
+Entegris
+Entegris Inc
+Envista
+Epic Systems
+Epirus
+Equinix
+Ericsson
+Esri
 Estee Lauder
 Etsy
+Eutelsat
+Eve Air Mobility
+Evolv Technology
+Evonik
+Exact Sciences
+Exelixis
+Expedia
 ExxonMobil
+F5
+Fanuc
+Fastly
+Fate Therapeutics
 FedEx
 Ferrari
+Fervo Energy
+Fiat Chrysler
 Fidelity
+Figure AI
+Firefly Aerospace
+First Solar
+FIS
+Fisher Scientific
+Fisker
+Fitbit
+Flatiron Health
+Flex
+Fluence Energy
+Fluor
 Ford
+Form Energy
+FormFactor
 Fortinet
+Fortinet Inc
+Fortive
+Forvia
 Fox Corporation
+Foxconn
+Freeport-McMoRan
+Freescale
+FuelCell Energy
+Fujifilm
+Fujitsu
+Galapagos
+Garmin
+Gatik
 GE Aerospace
+GE HealthCare
+GE Vernova
+Gen Digital
+Genentech
+Generac
+General Atomics
+General Dynamics
+General Fusion
 General Mills
 General Motors
+Genius Sports
+Genmab
+Genmab A/S
+Gigamon
 Gilead Sciences
+Ginkgo Bioworks
+GitHub
+GitLab
+GlaxoSmithKline
+Glencore
+GlobalFoundries
+Globalstar
 GoDaddy
+Gogoro
 Goldman Sachs
 Google
+Grab
+Grail
+Gratitude Health
+Gridspace
+Grifols
+GSK
+Guardant Health
+Gulfstream
 H&M
+Hadrian
+Haleon
+Hamamatsu Photonics
+Hanwha
+Hanwha Aerospace
+Hanwha Systems
+Harley-Davidson
+Hasbro
+HashiCorp
+Hawkeye 360
 HCA Healthcare
+HeartFlow
+Heliogen
+Helion Energy
+Hermeus
+Hero MotoCycorp
+Hesai
 Hewlett Packard Enterprise
+Hexagon
+Hexcel
+Hikvision
 Hilton
+Hitachi
+Hitachi Energy
+Hologic
+Hon Hai
 Honda
 Honeywell
+Honeywell Aerospace
+Horizon Robotics
 HP
 HSBC
+HTC
+Hua Hong Semiconductor
 Huawei
+Hubbell
+HubSpot
+Hugging Face
+Huntington Ingalls Industries
+Hyliion
+Hyperfine
+Hypertherm
 Hyundai
 IBM
+ICEYE
+IDEXX Laboratories
+iFlytek
 IKEA
+Illumina
+Illumio
+Immunocore
+Impinj
+Impulse Space
+Incyte
 Indeed
+Infineon Technologies
+Inflection AI
+Informatica
+Infosys
+Ingersoll Rand
+Inmarsat
+Innoviz
+Inovio
+Insitro
+Insmed
+Inspire Medical Systems
+Insulet
+Integra LifeSciences
 Intel
+Intel Foundry
+Intellia Therapeutics
+Intellicheck
 Intuit
+Intuitive Machines
 Intuitive Surgical
+Ionis Pharmaceuticals
+IonQ
+Ipsen
+IQVIA
+Iridium
+iRobot
+Isar Aerospace
+Isomorphic Labs
+ispace
+Israel Aerospace Industries
+Itron
 Jabil
+Jacobs Engineering
+Jacobs Solutions
+JD.com
+JetBlue
+JFrog
+JinkoSolar
+Joby Aviation
+Johnson & Johnson
+Johnson Controls
 JPMorgan Chase
+Juniper Networks
+Juno Therapeutics
+Kairos Power
+Kaman
+KBR
 Kellogg
+Kernel
+Keyence
+Keysight Technologies
 Kia
 Kimberly-Clark
 KLA
+Kodak
+Kodiak Robotics
+Kongsberg
 Kraft Heinz
+Kratos Defense
 Kroger
+Kuka
+Kyndryl
+Kyocera
 L3Harris
+Labcorp
 Lam Research
+Lanxess
+Largan Precision
+Lasertec
+Lattice Semiconductor
+Lear
+Legrand
+Leidos
+LeMaitre Vascular
 Lenovo
+Lenovo Group
+Leonardo
 LG
+LG Energy Solution
+Li Auto
+Lightbridge
+Lightmatter
+Lilium
+Lilium NV
+Lime
+Linde
+Liquid Instruments
+Lithium Americas
+Livent
+LiveRamp
 Lockheed Martin
+Locomation
+LONGi
+Lonza
+Lordstown
 Lowe's
+Lucid Group
+Lucid Motors
 Lululemon
+Lumen Technologies
+Lumentum
+Luminar
+Lundbeck
+Lyft
+Lyten
+Magic Leap
+Magna International
+Magnite
+Mahindra
+Marvell Technology
+Masimo
 Mastercard
 Match Group
+Materialise
 Mattel
+Matternet
+Maxar Technologies
+Maxeon
+Maxim Integrated
+MaxLinear
+Mazda
+MBDA
 McDonald's
+McKesson
+McKinsey
+MediaTek
+Medidata
+Medline
+Medpace
 Medtronic
+Meituan
+Mellanox
 Mercedes-Benz
+Merck
+Merck KGaA
+Merck Sharp & Dohme
+Meridian Bioscience
+Merit Medical
 Meta
+Mettler-Toledo
+Microchip Technology
 Micron
 Microsoft
+MicroStrategy
+Microvision
+Midjourney
+Mirati Therapeutics
+Mistral AI
+Mitsubishi Aircraft
+Mitsubishi Electric
+Mitsubishi Heavy Industries
+MKS Instruments
+Mobileye
 Moderna
+Moderna Therapeutics
+Molina Healthcare
+Momentive
 Mondelez
+MongoDB
+Monolithic Power Systems
+Moog
+Moonshot AI
+Moore Threads
 Morgan Stanley
+Motional
 Motorola Solutions
+Mouser Electronics
+MP Materials
+Mural
+Murata Manufacturing
+Myriad Genetics
+Nano Dimension
+Nanox
+Nanya Technology
+NASA
+Natera
+National Instruments
+Natron Energy
+Naura Technology
+NCR
+Nektar Therapeutics
+Neogenomics
+NetApp
+NetEase
 Netflix
+Neuralink
+Neurocrine Biosciences
+Neuropace
+Nevro
+New Relic
+Newmont
+Nextracker
+Nidec
 Nike
+Nikola
+Nikon
 Nintendo
+NIO
+Nissan
 Nokia
+Nokia Bell Labs
+Nordex
 Nordstrom
+Northrop Grumman
+Northvolt
+Novanta
+Novartis
+Novavax
+Novo Holdings
+Novo Nordisk
+Novocure
+Nuance Communications
+Nucor
+Nuro
+Nuro Inc
+NuScale Power
+Nutanix
 Nvidia
+Nvidia Research
 NXP Semiconductors
+OHB
+Oklo
+Okta
+Olympus
+Omnicell
+OmniVision
+Omron
+ON Semiconductor
+OneStream
+Onsemi
+OpenAI
 Oracle
+Orsted
+Oshkosh
+Otis Worldwide
+Otsuka
+Ouster
+Overair
+Owens & Minor
+Oxbotica
+Oxford Nanopore
+Pacific Biosciences
+Pagerduty
+Palantir
 Palo Alto Networks
+Palomar Technologies
 Panasonic
+Panasonic Energy
+Panasonic Holdings
+Paradromics
+Parker Hannifin
+Paycom
 PayPal
+PDD Holdings
+Pegasystems
+Pegatron
+Penumbra
 PepsiCo
+PerkinElmer
+Perplexity
 Pfizer
+Philips
+Phillips 66
+PicoCELA
+Piedmont Lithium
+Pilatus
 Pinterest
+Pivotal Software
+Planet
+Planet Fitness
+Planet Labs
+Plexus
+Plug Power
+Plus
+Polaris
+Polestar
+Pony.ai
+Portland General Electric
+Power Integrations
+PowerSchool
 Procter & Gamble
+Proofpoint
+Proterra
+PTC
+Pure Storage
+Qiagen
+Qorvo
 Qualcomm
+Qualtrics
+Qualys
+Quanta Computer
+Quanta Services
+Quanterix
+Quantinuum
+Quantum Computing Inc
+QuantumScape
+Quantumscape Corp
+Quest Diagnostics
+Quidel
+Radiant Logistics
+Rafael
 Ralph Lauren
+Rapid7
 Raytheon
+Raytheon Technologies
+Realtek
+Recursion Pharmaceuticals
+Red Hat
 Reddit
+Redwood Materials
+Regeneron
+Relativity Space
 Renault
+Renesas Electronics
+Replimune
+ResMed
+Revolution Medicines
+Rheinmetall
+Rigetti Computing
+RingCentral
+Rio Tinto
 Rivian
+Rivian Automotive
 Roblox
 Roche
+Rocket Factory Augsburg
+Rocket Lab
+Rockwell Automation
+Rohm
+Roivant Sciences
 Roku
 Rolls-Royce
 RTX
+Rubrik
+Ruckus Networks
+Runway
+Saab
+Safe Superintelligence
+Safran
+Saint-Gobain
+Sakuu
 Salesforce
+Samsara
 Samsung
+Samsung Biologics
+Samsung Electronics
+Samsung SDI
+Sanctuary AI
+Sandisk
+Sangamo Therapeutics
+Sanmina
 Sanofi
 SAP
+Sarepta Therapeutics
+Saronic
+Sartorius
+SAS Institute
+Satellogic
+Scale AI
+Schlumberger
 Schneider Electric
+Schneider Electric SE
+Screen Holdings
 Sea Limited
+Seagate Technology
+Seagen
+Sensata Technologies
+SenseTime
+SentinelOne
+Serve Robotics
 ServiceNow
+SES
 Shell
+Shield AI
+Shimadzu
+Shin-Etsu Chemical
+Shoals
 Shopify
+Sidus Space
 Siemens
+Siemens Digital Industries
+Siemens Energy
+Siemens Gamesa
+Siemens Healthineers
+Sierra Space
+Sila Nanotechnologies
+Silicon Graphics
+Silicon Labs
+Silicon Motion
+Silvergate
+Sinopharm
+Sinovac
+SiTime
+SK Hynix
+SK On
+Skydio
+Skyworks Solutions
+Slack
+Smartsheet
+SMC Corporation
+SMIC
+Smith & Nephew
+Snap
+Snowflake
+SoFi
+SolarEdge
+Solid Power
+Solid State Battery
 Sony
+Sony Semiconductor
+SoundHound AI
+Space Exploration Technologies
+SpaceNews
+SpaceX
+Spire Global
+Spirit AeroSystems
+Splunk
 Spotify
+Sprinklr
 Square
+Stability AI
 Starbucks
+Starship Technologies
 State Farm
+Stellantis
+Stem Inc
+Sterling Check
+STMicroelectronics
+Stoke Space
+Stratasys
 Stripe
+Stryker
 Subaru
+Sumco
+Sumitomo
+Sumo Logic
+Sunnova
+Sunpower
+SunPower Corp
+Sunrun
+Supermicro
+Supernal
+Suzuki
+Synaptics
+Synchron
+Syneos Health
+Syngenta
+Synopsys
+Synthego
 T-Mobile
+TAE Technologies
+Takeda
+Tandem Diabetes Care
 Target
 Tata Consultancy Services
+Tata Motors
+Tata Steel
+TDK
+TE Connectivity
+Teladoc Health
+Teledyne FLIR
+Teledyne Technologies
+Teledyne Technologies Inc
+Telefonica
+Telesat
+Tempus
+Tempus AI
+Tencent
+Teradata
+Teradata Corporation
+Teradyne
+Terran Orbital
+TerraPower
+Terumo
 Tesla
+Tesla Energy
+Teva
 Texas Instruments
+Textron
+Textron Aviation
+Thales
 The Home Depot
 The Walt Disney Company
+Thermo Fisher Scientific
 Thomson Reuters
+Thoughtworks
+Tigo Energy
+Tokyo Electron
+Tokyo Electron Limited
+Toshiba
 Toyota
 Toyota Industries
+Trane Technologies
+TransDigm
+Trimble
+Trina Solar
+TSMC
+TuSimple
+Twilio
+Twist Bioscience
+Twist Bioscience Corp
+Tyler Technologies
 Uber
 UBS
+UBTech
+UCB
+Ultra Clean Holdings
+Ultragenyx
+UMC
 Unilever
+Unisys
 United Airlines
+United Therapeutics
 UnitedHealth Group
+Unitree Robotics
+Unity Software
+Universal Display
 UPS
+Upstart
+Vale
+Valeo
+Varda Space Industries
+Varian Medical Systems
+Varonis
+Vast
+Veeva Systems
+Velo3D
+Velodyne
+Veracyte
+Verily
+Verint
+VeriSign
 Verizon
+Vertex Inc
+Vertex Pharmaceuticals
+Vertical Aerospace
+Vertiv
+Vestas
+Viasat
+Viavi Solutions
+VinFast
+Vir Biotechnology
+Virgin Galactic
+Virgin Orbit
+Viridian Therapeutics
 Visa
+Vishay
+Visteon
+Vistra
+Vizio
+VMware
+Vodafone
 Volkswagen
+Volocopter
 Volvo
+Vroom
 Walmart
 Warner Bros. Discovery
+Waters Corporation
+Wayfair
+Waymo
+Wayve
+Weights & Biases
 Wells Fargo
+WeRide
 Western Digital
+Wing
+Wisk
+Wistron
+Wix
+Wolfram Research
+Wolfspeed
+Wolfspeed Inc
+Woodside Energy
 Workday
+Workiva
+WuXi AppTec
+WuXi Biologics
+X-energy
+xAI
+Xencor
 Xerox
+Xerox Holdings
 Xiaomi
+Xilinx
+Xometry
+Xpeng
+Xperi
 Yahoo
 Yamaha
 Yelp
+Zebra
+Zebra Medical Vision
+Zebra Tech
+Zebra Technologies
+Zeekr
+Zeiss
+ZF Friedrichshafen
+Zhipu AI
 Zillow
+Zimmer Biomet
+Zipline
+ZipRecruiter
 Zoetis
 Zoom
 ZoomInfo
+Zoox
 Zscaler
+Zuora
+Zymergen
+Zymo Research
+Zynga
 迪士尼

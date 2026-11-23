@@ -3,6 +3,7 @@ package jahn;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
+import java.util.Stack;
 
 public class Trie implements AutoCompleter {
 
@@ -42,11 +43,18 @@ public class Trie implements AutoCompleter {
 
     @Override
     public int size() {
-        return 0;
+            int count = endsWord ? 1 : 0;
+
+            for (Trie child : edges.values()) {
+                count += child.size();
+            }
+
+            return count;
     }
 
     @Override
     public boolean exactMatch(String target) {
+        target = target.toLowerCase();
         Trie cur = this;
 
         for (char c : target.toCharArray()) {
@@ -69,12 +77,30 @@ public class Trie implements AutoCompleter {
                 return new String[0];
             }
         }
+
         List<String> results = new ArrayList<>();
+        Stack<Object[]> stack = new Stack<>();
+
+        stack.push(new Object[]{cur, prefix});
+
+        while (!stack.isEmpty()) {
+            Object[] entry = stack.pop();
+            Trie node = (Trie) entry[0];
+            String word = (String) entry[1];
+
+            if (node.endsWord) {
+                results.add(word);
+            }
+
+            for (Map.Entry<Character, Trie> edge : node.edges.entrySet()) {
+                stack.push(new Object[]{
+                        edge.getValue(),
+                        word + edge.getKey()
+                });
+            }
+        }
+
         return results.toArray(new String[0]);
     }
 
-    @Override
-    public String getBackingClass() {
-        return "jahn.jahn.ListMap";
-    }
 }

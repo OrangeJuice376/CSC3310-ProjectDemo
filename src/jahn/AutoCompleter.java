@@ -13,8 +13,6 @@ public interface AutoCompleter {
 
     int size();
 
-    String getBackingClass();
-
     String[] allMatches(String prefix);
 
 

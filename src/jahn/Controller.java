@@ -53,6 +53,7 @@ public class Controller {
             resultList.setItems(FXCollections.observableArrayList(words));
         } else {
 
+
             measureTiming(trie, query, trieExactTime, trieAllTime);
             resultList.setItems(FXCollections.observableArrayList(trie.allMatches(query)));
         }

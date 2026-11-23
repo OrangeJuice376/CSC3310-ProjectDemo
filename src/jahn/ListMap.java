@@ -16,7 +16,6 @@ public class ListMap<K, V> implements Map<K, V> {
         this.entries = new ArrayList<>();
     }
 
-
     @Override
     public int size() {
         return entries.size();

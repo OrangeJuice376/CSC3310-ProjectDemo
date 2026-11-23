@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.scene.layout.VBox?>
-<?import javafx.scene.layout.HBox?>
-<?import javafx.scene.control.ComboBox?>
 <?import javafx.geometry.Insets?>
-<?import javafx.scene.text.Text?>
-<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ComboBox?>
 <?import javafx.scene.control.ListView?>
-<?import javafx.scene.control.Label?>
-<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="647.0" prefWidth="425.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jahn.Controller">
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="409.0" prefWidth="425.0" xmlns="http://javafx.com/javafx/24.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jahn.Controller">
     <children>
         <HBox prefHeight="0.0" prefWidth="600.0">
             <children>
@@ -30,88 +30,11 @@
             </children>
         </HBox>
         <ListView fx:id="resultList" prefHeight="272.0" prefWidth="600.0" />
-        <HBox prefHeight="275.0" prefWidth="425.0">
+        <HBox prefHeight="97.0" prefWidth="425.0">
             <children>
                 <VBox prefHeight="266.0" prefWidth="212.0">
                     <children>
-                        <HBox prefHeight="20.0" prefWidth="212.0">
-                            <children>
-                                <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Unsorted List" wrappingWidth="80.73828125">
-                                    <HBox.margin>
-                                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
-                                    </HBox.margin>
-                                </Text>
-                                <Label fx:id="unorderedAL" text="AL">
-                                    <HBox.margin>
-                                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
-                                    </HBox.margin>
-                                </Label>
-                                <Label fx:id="unorderedLL" text="LL">
-                                    <HBox.margin>
-                                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
-                                    </HBox.margin>
-                                </Label>
-                            </children>
-                        </HBox>
-                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Exact Queary" wrappingWidth="77.77734375">
-                            <VBox.margin>
-                                <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
-                            </VBox.margin>
-                        </Text>
-                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="All Matches" wrappingWidth="77.77734375">
-                            <VBox.margin>
-                                <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
-                            </VBox.margin>
-                        </Text>
-                        <HBox prefHeight="20.0" prefWidth="212.0">
-                            <children>
-                                <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Sorted List" wrappingWidth="80.73828125">
-                                    <HBox.margin>
-                                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
-                                    </HBox.margin>
-                                </Text>
-                                <Label fx:id="orderedAL" text="AL">
-                                    <HBox.margin>
-                                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
-                                    </HBox.margin>
-                                </Label>
-                                <Label fx:id="orderedLL" text="LL">
-                                    <HBox.margin>
-                                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
-                                    </HBox.margin>
-                                </Label>
-                            </children>
-                        </HBox>
-                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Exact Queary" wrappingWidth="77.77734375">
-                            <VBox.margin>
-                                <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
-                            </VBox.margin>
-                        </Text>
-                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="All Matches" wrappingWidth="77.77734375">
-                            <VBox.margin>
-                                <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
-                            </VBox.margin>
-                        </Text>
-                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Binary Search Tree" wrappingWidth="121.77734375">
-                            <VBox.margin>
-                                <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
-                            </VBox.margin>
-                        </Text>
-                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Exact Queary" wrappingWidth="77.77734375">
-                            <VBox.margin>
-                                <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
-                            </VBox.margin>
-                        </Text>
-                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="All Matches" wrappingWidth="77.77734375">
-                            <VBox.margin>
-                                <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
-                            </VBox.margin>
-                        </Text>
-                  <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Trie" wrappingWidth="121.77734375">
-                     <VBox.margin>
-                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
-                     </VBox.margin>
-                  </Text>
+                  <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Trie Function Benchmarking" textAlignment="CENTER" wrappingWidth="214.44403839111328" />
                   <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Exact Queary" wrappingWidth="77.77734375">
                      <VBox.margin>
                         <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
@@ -126,32 +49,6 @@
                 </VBox>
                 <VBox prefHeight="266.0" prefWidth="215.0">
                     <children>
-                        <TextField fx:id="unorderedExactTime">
-                            <VBox.margin>
-                                <Insets bottom="5.0" top="25.0" />
-                            </VBox.margin>
-                        </TextField>
-                        <TextField fx:id="unorderedAllTime" />
-                        <TextField fx:id="orderedExactTime">
-                            <VBox.margin>
-                                <Insets bottom="5.0" top="25.0" />
-                            </VBox.margin>
-                        </TextField>
-                        <TextField fx:id="orderedAllTime">
-                            <VBox.margin>
-                                <Insets />
-                            </VBox.margin>
-                        </TextField>
-                        <TextField fx:id="bstExactTime">
-                            <VBox.margin>
-                                <Insets top="25.0" />
-                            </VBox.margin>
-                        </TextField>
-                        <TextField fx:id="bstAllTime">
-                            <VBox.margin>
-                                <Insets top="5.0" />
-                            </VBox.margin>
-                        </TextField>
                   <TextField fx:id="trieExactTime">
                      <VBox.margin>
                         <Insets top="25.0" />
