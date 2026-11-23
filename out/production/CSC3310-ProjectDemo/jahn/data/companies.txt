@@ -1,0 +1,209 @@
+3M
+ABB
+Abbott
+Accenture
+Adobe
+AIG
+Airbnb
+Airbus
+Alibaba
+Allstate
+Alphabet
+Amazon
+AMD
+Amgen
+Anheuser-Busch
+Apple
+Applied Materials
+Aramco
+ASML
+AT&T
+Atlassian
+Audi
+Autodesk
+Baidu
+Baker Hughes
+Bank of America
+Barclays
+BASF
+Bayer
+BBC
+Berkshire Hathaway
+Best Buy
+Boeing
+Booking Holdings
+Bosch
+BP
+Bridgestone
+Broadcom
+Bumble
+Canon
+Capital One
+CarMax
+Carnival
+Caterpillar
+CDW
+Chevron
+Chipotle
+Cisco
+Citigroup
+Coca-Cola
+Colgate-Palmolive
+Comcast
+Costco
+Coupang
+CrowdStrike
+CVS Health
+Daimler Truck
+Danaher
+Darden Restaurants
+Dell
+Delta Air Lines
+Deutsche Bank
+Disney
+DoorDash
+Dropbox
+eBay
+Ecolab
+Eli Lilly
+Emerson Electric
+Enphase Energy
+Estee Lauder
+Etsy
+ExxonMobil
+FedEx
+Ferrari
+Fidelity
+Ford
+Fortinet
+Fox Corporation
+GE Aerospace
+General Mills
+General Motors
+Gilead Sciences
+GoDaddy
+Goldman Sachs
+Google
+H&M
+HCA Healthcare
+Hewlett Packard Enterprise
+Hilton
+Honda
+Honeywell
+HP
+HSBC
+Huawei
+Hyundai
+IBM
+IKEA
+Indeed
+Intel
+Intuit
+Intuitive Surgical
+Jabil
+JPMorgan Chase
+Kellogg
+Kia
+Kimberly-Clark
+KLA
+Kraft Heinz
+Kroger
+L3Harris
+Lam Research
+Lenovo
+LG
+Lockheed Martin
+Lowe's
+Lululemon
+Mastercard
+Match Group
+Mattel
+McDonald's
+Medtronic
+Mercedes-Benz
+Meta
+Micron
+Microsoft
+Moderna
+Mondelez
+Morgan Stanley
+Motorola Solutions
+Netflix
+Nike
+Nintendo
+Nokia
+Nordstrom
+Nvidia
+NXP Semiconductors
+Oracle
+Palo Alto Networks
+Panasonic
+PayPal
+PepsiCo
+Pfizer
+Pinterest
+Procter & Gamble
+Qualcomm
+Ralph Lauren
+Raytheon
+Reddit
+Renault
+Rivian
+Roblox
+Roche
+Roku
+Rolls-Royce
+RTX
+Salesforce
+Samsung
+Sanofi
+SAP
+Schneider Electric
+Sea Limited
+ServiceNow
+Shell
+Shopify
+Siemens
+Sony
+Spotify
+Square
+Starbucks
+State Farm
+Stripe
+Subaru
+T-Mobile
+Target
+Tata Consultancy Services
+Tesla
+Texas Instruments
+The Home Depot
+The Walt Disney Company
+Thomson Reuters
+Toyota
+Toyota Industries
+Uber
+UBS
+Unilever
+United Airlines
+UnitedHealth Group
+UPS
+Verizon
+Visa
+Volkswagen
+Volvo
+Walmart
+Warner Bros. Discovery
+Wells Fargo
+Western Digital
+Workday
+Xerox
+Xiaomi
+Yahoo
+Yamaha
+Yelp
+Zillow
+Zoetis
+Zoom
+ZoomInfo
+Zscaler
+迪士尼
